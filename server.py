@@ -261,7 +261,7 @@ def report_page():
         "<title>CanaryPot report</title>"
         "<style>body{font-family:monospace;background:#0f172a;color:#e2e8f0;"
         "margin:24px}h1{color:#fbbf24}table{border-collapse:collapse;"
-        "margin-bottom:32px;width:100%;max-width:900px}"
+        "margin-bottom:32px;width:100%%;max-width:900px}"
         "td,th{border:1px solid #334155;padding:4px 8px;font-size:12px}"
         "th{background:#1e293b;text-align:left;color:#94a3b8}</style></head>"
         "<body><h1>&#128038; CanaryPot report</h1>"
